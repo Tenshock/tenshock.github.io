@@ -1,0 +1,6 @@
+[book]
+authors = ["Cédric Prezelin"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Les Règles de la Copinade"

@@ -1,0 +1,32 @@
+# Local Setup
+[tasks.install-cargo-bump]
+workspace = false
+install_crate = "cargo-bump"
+
+[tasks.install-cocogitto]
+workspace = false
+install_crate = "cocogitto"
+
+[tasks.install-commit-msg-hook]
+workspace = false
+install_crate = false
+command = "cog"
+args = ["install-hook", "commit-msg"]
+dependencies = ["install-cocogitto"]
+
+[tasks.local-setup]
+workspace = false
+dependencies = [
+    "install-cargo-bump",
+    "install-commit-msg-hook"
+]
+
+# Other
+[tasks.bump]
+workspace = false
+command = "cog"
+args = ["bump", "--auto"]
+dependencies = [
+   "install-cargo-bump",
+   "install-cocogitto"
+]
