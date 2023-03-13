@@ -1,3 +1,7 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Règles](./regles.md)
+
+---
+
+- [FAQ](./faq.md)
