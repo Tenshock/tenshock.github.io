@@ -58,7 +58,7 @@ Le lieu de l'activité, aka. lieu de pintage, est à la discrétion des membres,
 ## Article 5 - Jours ratés
 
 Compte tenu de la fréquence définie à [l'Article 3 - Fréquence](#article-3---fréquence);
-* UN mois manqué vaudra UNE bière offerte, l’heureux élu sera choisi, sur le moment, par via championnat de Shifoumi défini en [Annexe 1 - Shi-fou-mi](#annexe-1---shi-fou-mi).
+* UN mois manqué vaudra UNE bière offerte, l’heureux élu sera choisi, sur le moment, via championnat de Shifoumi défini en [Annexe 1 - Shi-fou-mi](#annexe-1---shi-fou-mi).
 * DEUX mois manqués consécutifs vaudront QUATRE bières offertes, les élus seront choisi, sur le moment, via Shifoumi défini en [Annexe 1 - Shi-fou-mi](#annexe-1---shi-fou-mi).
 * TROIS mois manqués vaudront pour une tournée complète à toutes les personnes présentes (membres et invités) plus une planche offerte.
 * QUATRE mois manqués vaudront pour bannissement du groupe, ou vacances d’été tout frais payés pour le reste des membres, au choix du membre en tort.
