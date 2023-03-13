@@ -77,16 +77,16 @@ Il est possible, sans être membre, définis à l'[Article 2 - Membres](#article
 
 ## Article 8 - Modifications des Règles
 
-Un membre peut demander librement à ajouter, modifier ou supprimer les règles, sauf cas expetionnel de l'[Article 8 - Modifications des Règles](#article-8---modifications-des-règles). Pour ce faire, le membre devra proposer, pendant une activité, devant tous les autres membres listés à l'[Article 2 - Membres](#article-2---membres) son altération. Un vote à main levée à l'unanimité est requis pour valider l'altération proposée par le membre, qui devra payer une bière à Cédric PREZELIN en sa qualité de scribe et protecteur des Règles. Si le scribe ne modifie pas le texte au plus tard le jour suivant, il devra en retour payer les 2 (deux) prochaines bières du membre à l'origine de la demande.
+Un membre peut demander librement à ajouter, modifier ou supprimer les règles, sauf cas exceptionnel de l'[Article 8 - Modifications des Règles](#article-8---modifications-des-règles). Pour ce faire, le membre devra proposer, pendant une activité, devant tous les autres membres listés à l'[Article 2 - Membres](#article-2---membres) son altération. Un vote à main levée à l'unanimité est requis pour valider l'altération proposée par le membre, qui devra payer une bière à Cédric PREZELIN en sa qualité de scribe et protecteur des Règles le soir du vote de la motion. Si le scribe ne modifie pas le texte au plus tard le jour suivant, il devra en retour payer les 2 (deux) prochaines bières du membre à l'origine de la demande.
 
 ## Annexe 1 - Shi-fou-mi
 
-Un partage entre 2 personnes se règle avec un Shi-fou-mi en 1 (une) manche gagnante. Dans le cas d'un partage entre plus de 2 personnes, se référer à l'[Annexe 1.1 - Shi-fou-mi Pluriel](#annexe-11---shi-fou-mi-pluriel).
+Un partage entre 2 (deux) personnes se règle avec un Shi-fou-mi en 1 (une) manche gagnante. Dans le cas d'un partage entre plus de 2 personnes, se référer à l'[Annexe 1.1 - Shi-fou-mi Pluriel](#annexe-11---shi-fou-mi-pluriel).
 
 Le shi-fou-mi est composé d'une pierre, signifiée avec le poing fermé, d'une feuille, signifiée avec une main ouverte paume vers le bas, et d'une paire de ciseaux signifiée avec le poing fermé orienté paume vers le corps et l'index et le majeur en extension.
 
-Les deux personnes mettent leur main de jeu derrière leur dos, invoquent la formule sacré "Pierre, Feuille, Ciseaux" simultanément et jouent leur objet choisi en même temps. Les ciseaux l'emportent sur la feuille, la feuille l'emporte sur la pierre, la pierre l'emporte sur les ciseaux. Une égalité vaut pour re-jeu.
+Les deux personnes mettent leur main de jeu derrière leur dos, invoquent la formule sacrée "Pierre, Feuille, Ciseaux" simultanément et jouent leur objet choisi en même temps. Les ciseaux l'emportent sur la feuille, la feuille l'emporte sur la pierre, la pierre l'emporte sur les ciseaux. Une égalité vaut pour re-jeu.
 
 ## Annexe 1.1 - Shi-fou-mi Pluriel
 
-Dans le cas d'un litige concernant plus de 2 (deux) personnes, en cas de jour pair, les deux personnes les plus jeunes jouent en premier, sinon les 2 (deux) personnes les plus agées. Puis le gagnant joue contre la personne restante la plus vieille (ou la plus jeune en cas de jour impair), puis le gagnant joue contre la personne la plus jeune (ou la plus vieille en cas de jour impair) plus jeune, ainsi de suite jusqu'à qu'il ne reste qu'une personne en lice, cette personne a gain de cause.
+Dans le cas d'un litige concernant plus de 2 (deux) personnes, en cas de jour pair, les deux personnes les plus jeunes jouent en premier, sinon les 2 (deux) personnes les plus agées. Puis le gagnant joue contre la personne restante la plus agée (ou la plus jeune en cas de jour impair), puis le gagnant joue contre la personne la plus jeune (ou la plus agée en cas de jour impair), ainsi de suite jusqu'à qu'il ne reste qu'une personne en lice, cette personne a gain de cause.
